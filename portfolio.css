@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    color: darkmagenta;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
